@@ -12,7 +12,9 @@ header{
   height: 100vh;
   width: 100%;
   background: url("https://www.teahub.io/photos/full/0-3702_rose-wallpaper-hd-resolution-is-cool-wallpapers-colorful.jpg") no-repeat;
-  background-position: center;
+  /* background-position: center; */
+  background-size: cover;
+  background-attachment: fixed;
 }
 ::selection{
   background: #a3f5ec;
@@ -85,7 +87,7 @@ header .text-content .job{
     width: 0ch;
   }
   50%{
-    width: 18ch;
+    width: 15ch;
   }
   100%{
     width: 0ch;

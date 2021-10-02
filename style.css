@@ -62,11 +62,11 @@ header .text-content .text{
   color: #202c58;
 }
 header .text-content .name{
- color: #6cf80f;
+ color: #f788d0;
  font-size: 7.5rem;
  font-weight: 600;
  margin: -2rem 0 0 -0.3rem;
- border-color: #000;
+ border-color: #f788d0;
 }
 header .text-content .job{
  color: #202c58;

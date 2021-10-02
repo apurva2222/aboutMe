@@ -48,33 +48,7 @@ nav .menu a{
 nav .menu a:hover{
   color: #000;
 }
-nav .search-box{
-  position: relative;
-  height: 4rem;
-  width: 25rem;
-}
-.search-box input[type="text"]{
-  position: absolute;
-  font-size: 1.8rem;
-  height: 100%;
-  width: 100%;
-  border-radius: .8rem;
-  outline: none;
-  color: #2c3350;
-  border: .2rem solid #2c3350;
-  background: #f2f2f2;
-  padding: 0 1rem 0 4rem;
-}
-.search-box a{
-  position: absolute;
-  top: 50%;
-  left: 1rem;
-  font-size: 2rem;
-  color: #5b5e58;
-  transform: translateY(-50%);
-  border-right: .2rem solid #2c3350;
-  padding: 0 .5rem 0 0;
-}
+
 .text-content{
   position: absolute;
   top: 33%;
@@ -152,4 +126,3 @@ header .text-content .job{
 .buttons button:hover{
   transform: scale(0.97);
 }
-
